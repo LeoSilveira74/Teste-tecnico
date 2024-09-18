@@ -50,9 +50,18 @@ body{
     align-items: center;
     text-align: center;
     justify-content: center;
-    width: 250px;
-    height: 150px;
+    width: 270px;
+    height: 200px;
     border-radius: 15%;
     gap: 15px;
     border: 1px solid;
+}
+
+.container .text h4{
+    margin-top: 20px;
+}
+
+
+.container .text .response{
+    font-size: 15px;
 }
